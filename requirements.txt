@@ -1,0 +1,34 @@
+# Python 3.10
+# After installing: python -m spacy download pt_core_news_sm
+
+# data
+pandas
+numpy
+openpyxl
+matplotlib
+plotly
+tqdm
+
+# collection
+requests
+selenium
+beautifulsoup4
+
+# preprocessing
+spacy
+langdetect
+pt-lemmatizer
+
+# topic modeling
+gsdmm @ git+https://github.com/rwalk/gsdmm.git
+bertopic
+sentence-transformers
+transformers
+umap-learn
+hdbscan
+scikit-learn
+
+# evaluation
+gensim
+
+jupyterlab

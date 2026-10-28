@@ -1,1 +1,18 @@
+# trained BERTopic model (too large for Git)
 Topic_Modeler/meu_modelo_bertopic
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
