@@ -6,7 +6,7 @@
 ![Python 3.10](https://img.shields.io/badge/python-3.10-351a2b)
 ![BERTopic + BERTimbau](https://img.shields.io/badge/BERTopic-BERTimbau-006fd0)
 
-[English version](README.md)
+**[Veja a página interativa do projeto →](https://amr-topic-modeling-site-umber.vercel.app/pt/)** · [English version](README.md)
 
 Este repositório guarda o código do artigo **"Topic Modeling in Brazilian Portuguese Documents on Antimicrobial Resistance"**, de Enrique Reis Susin e Lilian Berton (UNIFESP), publicado nos *Proceedings of the 17th International Conference on Computational Processing of Portuguese (PROPOR 2026)*, vol. 1, pp. 103–110.
 
